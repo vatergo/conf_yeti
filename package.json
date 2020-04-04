@@ -1,0 +1,29 @@
+{
+  "name": "conf_yeti",
+  "version": "1.0.0",
+  "description": "JetBrains internships",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatergo/conf_yeti.git"
+  },
+  "keywords": [
+    "jetbrains"
+  ],
+  "author": "vatergo <vatergo@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vatergo/conf_yeti/issues"
+  },
+  "homepage": "https://github.com/vatergo/conf_yeti#readme",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.0",
+    "express": "^4.17.1"
+  }
+}
